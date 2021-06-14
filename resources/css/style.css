@@ -20,6 +20,7 @@ h2 {
     font-family: Verdana;
     font-weight: 300;
     font-size: 42px;
+    color: white;
 }
 
 p {
@@ -30,4 +31,12 @@ p {
 
 #copyright {
     text-align: right;
+}
+
+img {
+    padding: 10px 0;
+}
+
+video {
+    padding-top: 20px;
 }
